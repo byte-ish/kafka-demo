@@ -1,4 +1,4 @@
-package com.learn.simplesteps;
+package com.learn;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

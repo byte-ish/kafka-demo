@@ -1,4 +1,4 @@
-package com.learn.simplesteps;
+package com.learn;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
